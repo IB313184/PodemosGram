@@ -1,4 +1,4 @@
-## Telegram messenger for Android
+## PodemosGram messenger for Android
 
 [Telegram](http://telegram.org) is a messaging app with a focus on speed and security. It’s superfast, simple and free.
 
